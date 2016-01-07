@@ -68,4 +68,4 @@
     <ExpandableListView android:id="@+id/gatt_services_list"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>
-</LinearLayout><!-- From: file:/Users/zhangyoujin/Documents/workspace/MyApplication/WATCH_BLE/src/main/res/layout/gatt_services_characteristics.xml -->
+</LinearLayout><!-- From: file:/Users/zhangyoujin/Documents/workspace/MyApplication/Heart_Rate/src/main/res/layout/gatt_services_characteristics.xml -->

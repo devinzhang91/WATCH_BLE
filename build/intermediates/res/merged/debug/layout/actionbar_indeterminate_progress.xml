@@ -21,4 +21,4 @@
                  android:layout_height="32dp"
                  android:layout_gravity="center"/>
 </FrameLayout>
-<!-- From: file:/Users/zhangyoujin/Documents/workspace/MyApplication/WATCH_BLE/src/main/res/layout/actionbar_indeterminate_progress.xml -->
+<!-- From: file:/Users/zhangyoujin/Documents/workspace/MyApplication/Heart_Rate/src/main/res/layout/actionbar_indeterminate_progress.xml -->

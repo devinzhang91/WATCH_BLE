@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/zhangyoujin/Documents/workspace/MyApplication/WATCH_BLE/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
+    <!-- From: file:/Users/zhangyoujin/Documents/workspace/MyApplication/Heart_Rate/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
     <eat-comment/>
     <attr format="reference" name="drawerArrowStyle"/>
     <attr format="dimension" name="height"/>
@@ -31,12 +31,12 @@
     <color name="bright_foreground_material_light">@android:color/black</color>
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
-    <!-- From: file:/Users/zhangyoujin/Documents/workspace/MyApplication/WATCH_BLE/src/main/res/values/colors.xml -->
+    <!-- From: file:/Users/zhangyoujin/Documents/workspace/MyApplication/Heart_Rate/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="colorAccent">#FF4081</color>
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
-    <!-- From: file:/Users/zhangyoujin/Documents/workspace/MyApplication/WATCH_BLE/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
+    <!-- From: file:/Users/zhangyoujin/Documents/workspace/MyApplication/Heart_Rate/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
     <eat-comment/>
     <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
     <color name="dim_foreground_disabled_material_light">#80323232</color>
@@ -156,11 +156,11 @@
     <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
     <dimen name="abc_text_size_title_material">20sp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
-    <!-- From: file:/Users/zhangyoujin/Documents/workspace/MyApplication/WATCH_BLE/src/main/res/values/dimens.xml -->
+    <!-- From: file:/Users/zhangyoujin/Documents/workspace/MyApplication/Heart_Rate/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
-    <!-- From: file:/Users/zhangyoujin/Documents/workspace/MyApplication/WATCH_BLE/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
+    <!-- From: file:/Users/zhangyoujin/Documents/workspace/MyApplication/Heart_Rate/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
     <eat-comment/>
     <item name="dialog_fixed_height_major" type="dimen">80%</item>
     <item name="dialog_fixed_height_minor" type="dimen">100%</item>
@@ -197,34 +197,16 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <!-- From: file:/Users/zhangyoujin/Documents/workspace/MyApplication/WATCH_BLE/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/zhangyoujin/Documents/workspace/MyApplication/Heart_Rate/src/main/res/values/strings.xml -->
     <eat-comment/>
-    <string name="action_settings">action</string>
-    <string name="app_name">WATCH BLE</string>
-    <string name="ble_not_supported">BLE is not supported</string>
-    <string name="connected">Connected</string>
-    <string name="disconnected">Disconnected</string>
-    <string name="error_bluetooth_not_supported">Bluetooth not supported.</string>
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="label_data">Data:</string>
-    <string name="label_device_address">Device address:</string>
-    <string name="label_state">State:</string>
-    <string name="menu_connect">Connect</string>
-    <string name="menu_disconnect">Disconnect</string>
-    <string name="menu_scan">Scan</string>
-    <string name="menu_stop">Stop</string>
-    <string name="no_data">No data</string>
-    <string name="title_devices">BLE Device Scan</string>
-    <string name="unknown_characteristic">Unknown characteristic</string>
-    <string name="unknown_device">Unknown device</string>
-    <string name="unknown_service">Unknown service</string>
-    <!-- From: file:/Users/zhangyoujin/Documents/workspace/MyApplication/WATCH_BLE/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
+    <string name="app_name">HeartRate</string>
+    <!-- From: file:/Users/zhangyoujin/Documents/workspace/MyApplication/Heart_Rate/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
     <eat-comment/>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
     <style name="Animation.AppCompat.DropDownUp" parent="Base.Animation.AppCompat.DropDownUp"/>
-    <!-- From: file:/Users/zhangyoujin/Documents/workspace/MyApplication/WATCH_BLE/src/main/res/values/styles.xml -->
+    <!-- From: file:/Users/zhangyoujin/Documents/workspace/MyApplication/Heart_Rate/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
@@ -232,7 +214,7 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
-    <!-- From: file:/Users/zhangyoujin/Documents/workspace/MyApplication/WATCH_BLE/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
+    <!-- From: file:/Users/zhangyoujin/Documents/workspace/MyApplication/Heart_Rate/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
     <eat-comment/>
     <style name="Base.AlertDialog.AppCompat" parent="android:Widget">
         <item name="android:layout">@layout/abc_alert_dialog_material</item>
